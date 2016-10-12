@@ -1,6 +1,4 @@
-/**
- * Created by vi on 21.09.2016.
- */
+
 import java.util.Arrays;
 public class buble {
    static int tt;
