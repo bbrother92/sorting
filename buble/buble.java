@@ -1,14 +1,14 @@
 
 import java.util.Arrays;
 public class buble {
-   static int tt;
+   static int tt; // iterations
 
 
     public static void main(String[] args) {
 
         int arrayList[] = { 5,3,9,7,1,8 };
         System.out.println("Final result:"+Arrays.toString(ascend(arrayList)));
-        System.out.println(tt);
+        
 
     }
 
